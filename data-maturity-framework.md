@@ -21,17 +21,27 @@ With that in mind, the DMA was designed to be:
 
 ---
 
-## Governance Domains
+## Framework Pillars
 
-The framework evaluates organizational maturity across several interconnected domains, including but not limited to:
+The NASA DMA Framework evaluates organizational maturity across six interconnected pillars. Together they capture the full spectrum of what it means for a federal agency to govern data responsibly and effectively.
 
-- **Data Infrastructure** covering the systems, architecture, and tools that enable data collection, storage, and access
-- **Organizational Capabilities** covering workforce skills, roles, and processes that support effective data governance
-- **AI Safety and Governance** covering frameworks and mechanisms for responsible AI deployment, accountability, and risk management
-- **Data Quality and Standards** covering practices for ensuring data accuracy, consistency, and fitness for use
-- **Compliance and Policy Alignment** covering alignment with federal data governance mandates and agency-wide policies
+### 1. Data Governance and Risk Management
+This pillar explores how the agency defines roles, responsibilities, and policies to ensure data is managed responsibly, securely, and in compliance with regulations. It focuses on how risks are identified and mitigated to protect data integrity and trust.
 
-Each domain is assessed against a defined maturity scale, allowing leadership to benchmark current state, identify priority gaps, and track progress over time.
+### 2. Data Architecture and Systems Infrastructure
+This pillar examines the technical foundation that supports NASA's data environment, including how systems are designed, integrated, and modernized to enable secure, scalable, and interoperable data use across the organization.
+
+### 3. Data Lifecycle and Quality Management
+This pillar focuses on how the agency manages data throughout its lifecycle, from creation and maintenance to archival and retirement. It emphasizes practices that ensure data remains accurate, accessible, and fit for purpose.
+
+### 4. Analytics, AI and Decision Intelligence
+This pillar assesses how the agency transforms data into actionable insights using analytics, artificial intelligence, and decision support tools. It highlights the responsible use of AI to drive smarter, faster, and more informed decisions.
+
+### 5. Data Protection, Privacy and Compliance
+This pillar evaluates how the agency safeguards data through security protocols, privacy practices, and compliance with legal and ethical standards. It emphasizes protecting sensitive information and maintaining public trust.
+
+### 6. Workforce, Culture and Data Literacy
+This pillar looks at how the agency builds a data-driven culture through training, staffing, and leadership. It focuses on empowering employees with the skills and mindset needed to use data effectively and responsibly.
 
 ---
 
@@ -70,3 +80,4 @@ Building a governance benchmarking tool for an agency as large and diverse as NA
 ---
 
 *This document provides a high-level overview of the DMA framework for public reference. Detailed implementation specifications, assessment instruments, and scoring methodologies are internal NASA documents.*
+
